@@ -1,6 +1,12 @@
 body{
-    background-color: rgb(44, 175, 44);
+    background-color: rgb(67, 196, 67);
 }
 h1{
     text-align: center;
+}
+input{
+   margin: 20px 0;
+   width: 100%;
+   text-align: center;
+   padding: 10px;
 }
