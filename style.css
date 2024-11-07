@@ -9,7 +9,7 @@ input{
    width: 100%;
    text-align: center;
    padding: 10px;
-   background-color: gray;
+   background-color: rgb(190, 188, 188);
 }
 .tela{
    background-color: rgb(255, 255, 255);
@@ -17,5 +17,5 @@ input{
    padding: 40px;
    width: 250px;
    justify-items: right;
-   align-items: righth;
+   align-items: right;
 }
