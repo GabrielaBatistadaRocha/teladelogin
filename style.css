@@ -9,7 +9,7 @@ input{
    width: 100%;
    text-align: center;
    padding: 10px;
-   color: gray;
+   background-color: gray;
 }
 .tela{
    background-color: rgb(255, 255, 255);
