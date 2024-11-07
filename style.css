@@ -10,3 +10,9 @@ input{
    text-align: center;
    padding: 10px;
 }
+.tela{
+   background-color: rgb(200, 229, 255);
+   border-radius: 8px;
+   padding: 40px;
+   width: 250px;
+}
