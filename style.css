@@ -17,7 +17,10 @@ input{
    width: 250px;
    float: right;
 }
-.imagem{
-    width: 50%;
-    background-image: ('espetinhos.jpeg');
+.botao{
+    margin: 20px 0;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(190, 188, 188); 
 }
