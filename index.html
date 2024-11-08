@@ -22,13 +22,13 @@
                 <br>
                 
                 <label for="senha">Senha:</label>
-                <input type="password" name="senha" placeholder="Digite a senha" required>
+                <input type="password" name="senha" placeholder="Digite a senha" minlength="8" required>
                 <br>
                 <label for="verificação">Digite a some de <span id="nsoma"></span></label>
-                <input type="text" name="verificar" placeholder="Digite a soma" required>
+                <input type="text" class="soma" id="result" name="verificar" placeholder="Digite a soma" required>
                 <br>
                 
-                <input type="submit" id="botao" class="botao" value="Login">
+                <input type="submit" onclick="teste ()" class="botao" value="Login">
                 
             </form>
         </div>
