@@ -17,3 +17,6 @@ input{
    width: 250px;
    float: right;
 }
+.fundo{
+    background-image: ('espetinho.jpg');
+}
