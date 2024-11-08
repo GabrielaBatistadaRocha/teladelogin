@@ -1,6 +1,12 @@
 body{
     background-color: rgb(67, 196, 67);
-    height: 100%;
+    margin: 0;
+    padding: 0;
+    height: 100vh; 
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+    text-align: center;
 }
 h1{
     text-align: center;
