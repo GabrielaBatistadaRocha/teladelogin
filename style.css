@@ -19,4 +19,5 @@ input{
 }
 .fundo{
     background-image: ('espetinho.jpg');
+    background-attachment: fixed;
 }
